@@ -1,30 +1,30 @@
-** 👋 Hi there! I'm Paige! **
+## 👋 Hi there! I'm Paige!
 
-I'm a self-taught web developer with a deep love for design and programming. I truly love crafting beautiful websites that not only look great but also provide unique user experience. My journey has led me to explore various technologies and frameworks.
+I'm a self-taught web developer with a deep love for design and programming. I truly love crafting beautiful websites that not only look great but also provide unique user experience. My journey has led me to explore various technologies and frameworks.<br>
 
-🤍 Based in Melbourne, AU
-💻 Frontend Development: HTML, CSS, JavaScript
-🎨 Design: UI/UX Design, Adobe Suite, Figma
+🤍 Based in Melbourne, AU<br>
+💻 Frontend Development: HTML, CSS, JavaScript<br>
+🎨 Design: UI/UX Design, Adobe Suite, Figma<br><br>
 
-🌱 Currently Learning:
-- React
-- Vue.js
-- Improving my design skills
+🌱 Currently Learning:<br>
+- React<br>
+- Vue.js<br>
+- Improving my design skills<br><br>
 
-🌟 Check out my projects:
-[Project 1:] (https://www.behance.net/gallery/163109953/GirlByte-Website-Design) A responsive website targeted at women in the gaming space.
-[Project 2:] (paigehai.framer.ai) An online blog aimed at intersecting the beautiful worlds of design and technology.
-Project 3: Web template for a personal portfolio website. * * Coming soon... * *
+🌟 Check out my projects:<br>
+[Project 1:](https://www.behance.net/gallery/163109953/GirlByte-Website-Design) A responsive website targeted at women in the gaming space.<br>
+[Project 2:](paigehai.framer.ai) An online blog aimed at intersecting the beautiful worlds of design and technology.<br>
+Project 3: Web template for a personal portfolio website. *Coming soon...*<br><br>
 
-In my spare time
-🏃🏼‍♀️‍➡️ You'll either find me being active and exploring nature 
-🍛 Cooking up a delicious meal in the kitchen, or
-💻 Hard at work learning new design skills, and programming languages (I'm looking at you Python!) 
+In my spare time you'll find me:<br>
+🏃🏼‍♀️‍➡️ Being active and exploring nature<br>
+🍛 Cooking up a delicious meal in the kitchen, or<br>
+💻 Hard at work learning new design skills, and programming languages (I'm looking at you Python!)<br><br>
 
 
-📫 Let's Connect:
-[LinkedIn] (https://www.linkedin.com/in/paigehai/)
-[Behance] (https://www.behance.net/paigehai)
-[Portfolio] (paigehai.framer.ai)
+📫 Let's Connect:<br>
+🔗 [LinkedIn](https://www.linkedin.com/in/paigehai/)<br>
+🔗 [Behance](https://www.behance.net/paigehai)<br>
+🔗 [Portfolio](paigehai.framer.ai)<br><br>
 
 🔍 Feel free to explore my repositories and projects. I'm always open to feedback and collaboration!
