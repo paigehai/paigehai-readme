@@ -13,7 +13,7 @@ I'm a self-taught web developer with a deep love for design and programming. I t
 
 🌟 Check out my projects:<br>
 [Project 1:](https://www.behance.net/gallery/163109953/GirlByte-Website-Design) A responsive website targeted at women in the gaming space.<br>
-[Project 2:](paigehai.framer.ai) An online blog aimed at intersecting the beautiful worlds of design and technology.<br>
+[Project 2:](https://paigehai.framer.ai/) An online blog aimed at intersecting the beautiful worlds of design and technology.<br>
 Project 3: Web template for a personal portfolio website. *Coming soon...*<br><br>
 
 In my spare time you'll find me:<br>
