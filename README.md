@@ -25,6 +25,6 @@ In my spare time you'll find me:<br>
 📫 Let's Connect:<br>
 🔗 [LinkedIn](https://www.linkedin.com/in/paigehai/)<br>
 🔗 [Behance](https://www.behance.net/paigehai)<br>
-🔗 [Portfolio](paigehai.framer.ai)<br><br>
+🔗 [Portfolio](https://paigehai.framer.ai)<br><br>
 
 🔍 Feel free to explore my repositories and projects. I'm always open to feedback and collaboration!
